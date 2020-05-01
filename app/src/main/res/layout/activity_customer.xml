@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/customerGoToMenuButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:text="go to menu" />
+
+    <Button
+        android:id="@+id/customerGoToLoginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="go to login" />
+
+</LinearLayout>
